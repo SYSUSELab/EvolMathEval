@@ -42,3 +42,5 @@ trusted_gpt.py --step ContextGen
 trusted_gpt.py --step AddCondition
 cross.py  
 combine_datasets.py  
+
+Detailed datasets EvolMath-300 and EvolMath-1000 are also accessible now.
