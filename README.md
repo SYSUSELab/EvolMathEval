@@ -36,10 +36,9 @@ Evolutionary_scoring.py
 fitness.py
 
 ## Secondary evaluation:
-extract_low_difficulty.py
-f"{python_path} trusted_gpt.py --step MisleadingCondition
-f"{python_path} trusted_gpt.py --step ContextGen
-f"{python_path} trusted_gpt.py --step AddCondition
-f"{python_path} cross.py
-
-f"{python_path} combine_datasets.py
+extract_low_difficulty.py  
+trusted_gpt.py --step MisleadingCondition
+trusted_gpt.py --step ContextGen
+trusted_gpt.py --step AddCondition
+cross.py  
+combine_datasets.py  
